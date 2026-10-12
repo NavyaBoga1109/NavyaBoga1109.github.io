@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Shopping bag with a payment card">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5eead4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <radialGradient id="bg" cx=".75" cy=".2" r=".9"><stop offset="0" stop-color="#a78bfa" stop-opacity=".28"/><stop offset=".55" stop-color="#0d0d10" stop-opacity="0"/></radialGradient>
+    <radialGradient id="bg2" cx=".2" cy=".85" r=".7"><stop offset="0" stop-color="#5eead4" stop-opacity=".22"/><stop offset="1" stop-color="#0d0d10" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="400" height="400" fill="#0d0d10"/><rect width="400" height="400" fill="url(#bg)"/><rect width="400" height="400" fill="url(#bg2)"/>
+  <g fill="none" stroke="url(#g)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 150h176l-14 158H126z"/>
+    <path d="M160 170v-40a40 40 0 0 1 80 0v40"/>
+  </g>
+  <g transform="translate(222 232) rotate(-10)">
+    <rect width="120" height="76" rx="12" fill="#16161b" stroke="#5eead4" stroke-width="5"/>
+    <path d="M0 22h120" stroke="#5eead4" stroke-width="10" stroke-opacity=".6"/>
+    <path d="M16 54h36" stroke="#a78bfa" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <circle cx="96" cy="104" r="6" fill="#5eead4"/><circle cx="312" cy="112" r="4" fill="#a78bfa"/><circle cx="84" cy="300" r="4" fill="#a78bfa"/>
+</svg>

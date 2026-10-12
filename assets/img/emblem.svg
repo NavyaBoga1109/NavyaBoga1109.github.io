@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Shield emblem under a scanning lens">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5eead4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <radialGradient id="bg" cx=".3" cy=".25" r=".9"><stop offset="0" stop-color="#5eead4" stop-opacity=".28"/><stop offset=".55" stop-color="#0d0d10" stop-opacity="0"/></radialGradient>
+    <radialGradient id="bg2" cx=".8" cy=".8" r=".7"><stop offset="0" stop-color="#a78bfa" stop-opacity=".25"/><stop offset="1" stop-color="#0d0d10" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="400" height="400" fill="#0d0d10"/><rect width="400" height="400" fill="url(#bg)"/><rect width="400" height="400" fill="url(#bg2)"/>
+  <g fill="none" stroke="url(#g)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M200 92l92 34v62c0 60-40 104-92 122-52-18-92-62-92-122v-62z"/>
+    <path d="M200 138l14 29 32 4-23 22 6 32-29-15-29 15 6-32-23-22 32-4z" stroke-width="5"/>
+    <path d="M86 200h228" stroke-opacity=".55" stroke-dasharray="4 10"/>
+    <path d="M70 120V84h36M330 120V84h-36M70 280v36h36M330 280v36h-36" stroke-width="5"/>
+  </g>
+  <circle cx="290" cy="290" r="30" fill="#0d0d10" stroke="#5eead4" stroke-width="5"/>
+  <path d="M276 290l10 10 18-20" fill="none" stroke="#5eead4" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

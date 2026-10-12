@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Face inside a recognition frame">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5eead4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <radialGradient id="bg" cx=".7" cy=".3" r=".9"><stop offset="0" stop-color="#a78bfa" stop-opacity=".26"/><stop offset=".6" stop-color="#0d0d10" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="400" height="400" fill="#0d0d10"/><rect width="400" height="400" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M90 140V96h44M310 140V96h-44M90 260v44h44M310 260v44h-44"/>
+    <ellipse cx="200" cy="196" rx="58" ry="72"/>
+    <path d="M178 182v8M222 182v8M190 226q10 8 20 0"/>
+  </g>
+  <path d="M100 200h200" stroke="#5eead4" stroke-width="3" stroke-opacity=".7"/>
+  <g fill="#5eead4" fill-opacity=".8"><circle cx="150" cy="150" r="4"/><circle cx="250" cy="150" r="4"/><circle cx="200" cy="270" r="4"/><circle cx="142" cy="210" r="4"/><circle cx="258" cy="210" r="4"/></g>
+</svg>
